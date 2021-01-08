@@ -34,6 +34,18 @@ All lecture videos are available publicly online and linked above! Use and/or mo
 >
 > http://introtodeeplearning.com
 
+## Creating Local virtualenv
+
+conda env create -f mit_deep_learning.yml
+
+location:  ....../opt/anaconda3/envs/mit_deep_learning
+
+conda activate mit_deep_learning
+
+pip install mitdeeplearning
+
+jupyter notebook
+
 ## License
 All code in this repository is copyright 2020 [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com). All Rights Reserved.
 

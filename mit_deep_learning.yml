@@ -1,0 +1,9 @@
+name: mit_deep_learning
+channels:
+  - defaults
+dependencies:
+  - pip=19.0.*
+  - pandas=0.24.*
+
+prefix: C:\Users\Marcial\Anaconda3\envs\mit_deep_learning
+
